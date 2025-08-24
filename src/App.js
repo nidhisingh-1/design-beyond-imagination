@@ -24,7 +24,7 @@ const App = () => {
         <div className="unicorn-container">
           <div 
             data-us-project="sOqc59bcWr9Pb7jcrFZ2" 
-            style={{ width: '1440px', height: '100%' }}
+            style={{ width: '100%', height: '100%' }}
           />
         </div>
       </section>
